@@ -1,0 +1,4 @@
+{ 副图：量比与量能均线 }
+V5:MA(VOL,5);
+V10:MA(VOL,10);
+量比:VOL/V5,COLORYELLOW;
